@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="450" src="[https://github.com/rifdanlabibah/MDS-7/assets/90300127/aa5a1493-5982-407c-a43f-8aad18ce62f5](https://github.com/rifdanl/MDS-Kelompok-7/assets/162286538/ca8bfc89-373f-4c3d-9ce5-c3c2021cdd53)">
+  <img width="1000" height="450" src="https://github.com/rifdanlabibah/MDS-7/assets/90300127/aa5a1493-5982-407c-a43f-8aad18ce62f5](https://github.com/rifdanl/MDS-Kelompok-7/assets/162286538/ca8bfc89-373f-4c3d-9ce5-c3c2021cdd53">
 </p>
 
 <div align="center">
